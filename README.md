@@ -97,9 +97,9 @@ python make_video.py --frames frames --out final_output.mp4
 
 The system produces:
 
-A smoothed trajectory
-A prediction (Hitting or Missing)
-A complete 3D replay animation
+- A smoothed trajectory
+- A prediction (Hitting or Missing)
+- A complete 3D replay animation
 
 ---
 
