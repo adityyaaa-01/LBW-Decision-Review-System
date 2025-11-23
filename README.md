@@ -43,17 +43,17 @@ All animated frames are combined into one smooth video.
 
 ## 📂 Project Structure
 
-UDRS-Project/
-│
-├── extract_tracks_kalman.py
-├── physics_reconstruct.py
-├── blender_render.py
-├── make_video.py
-├── run_pipeline.py
-│
-├── input_video.mp4
-├── tracks.json
-└── frames/
+- UDRS-Project/
+- │
+- ├── extract_tracks_kalman.py
+- ├── physics_reconstruct.py
+- ├── blender_render.py
+- ├── make_video.py
+- ├── run_pipeline.py
+- │
+- ├── input_video.mp4
+- ├── tracks.json
+- └── frames/
 
 ---
 
